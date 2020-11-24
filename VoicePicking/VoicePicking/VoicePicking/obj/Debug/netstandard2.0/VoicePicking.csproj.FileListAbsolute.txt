@@ -1,0 +1,14 @@
+D:\Documents\skripsi\VoicePicking\VoicePicking\VoicePicking\bin\Debug\netstandard2.0\VoicePicking.deps.json
+D:\Documents\skripsi\VoicePicking\VoicePicking\VoicePicking\bin\Debug\netstandard2.0\VoicePicking.dll
+D:\Documents\skripsi\VoicePicking\VoicePicking\VoicePicking\obj\Debug\netstandard2.0\VoicePicking.csprojAssemblyReference.cache
+D:\Documents\skripsi\VoicePicking\VoicePicking\VoicePicking\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Documents\skripsi\VoicePicking\VoicePicking\VoicePicking\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Documents\skripsi\VoicePicking\VoicePicking\VoicePicking\obj\Debug\netstandard2.0\VoicePicking.AssemblyInfoInputs.cache
+D:\Documents\skripsi\VoicePicking\VoicePicking\VoicePicking\obj\Debug\netstandard2.0\VoicePicking.AssemblyInfo.cs
+D:\Documents\skripsi\VoicePicking\VoicePicking\VoicePicking\bin\Debug\netstandard2.0\ref\VoicePicking.dll
+D:\Documents\skripsi\VoicePicking\VoicePicking\VoicePicking\bin\Debug\netstandard2.0\VoicePicking.pdb
+D:\Documents\skripsi\VoicePicking\VoicePicking\VoicePicking\obj\Debug\netstandard2.0\VoicePicking.csproj.CoreCompileInputs.cache
+D:\Documents\skripsi\VoicePicking\VoicePicking\VoicePicking\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Documents\skripsi\VoicePicking\VoicePicking\VoicePicking\obj\Debug\netstandard2.0\VoicePicking.dll
+D:\Documents\skripsi\VoicePicking\VoicePicking\VoicePicking\obj\Debug\netstandard2.0\ref\VoicePicking.dll
+D:\Documents\skripsi\VoicePicking\VoicePicking\VoicePicking\obj\Debug\netstandard2.0\VoicePicking.pdb
